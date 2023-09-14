@@ -1,0 +1,530 @@
+[25-Dec-2022 10:38:31 UTC] wp_auto_login: trying to login user_id==1 loginusername=beroepen@gmail.com to admin_url=http://ngmexpress.com/wp-admin/
+[25-Dec-2022 11:01:08 UTC] wp_auto_login: trying to login user_id==1 loginusername=beroepen@gmail.com to admin_url=http://ngmexpress.com/wp-admin/
+[25-Dec-2022 11:17:03 UTC] wp_auto_login: trying to login user_id==1 loginusername=beroepen@gmail.com to admin_url=http://ngmexpress.com/wp-admin/
+[25-Dec-2022 14:31:43 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Dec-2022 14:31:51 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Dec-2022 14:46:26 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=http://ngmexpress.com/wp-admin/
+[25-Dec-2022 21:54:53 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=http://ngmexpress.com/wp-admin/
+[26-Dec-2022 17:31:26 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/services/' , 'HOME4 SERVICE1' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service2' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service3' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service4' , '301' ), ( 'http://ngmexpress.com/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/wp-content/uploads/2022/12/B865F796-0EE8-4385-AFBE-6A3F1BA418FB.jpg' , 'Default Footer' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:33:02 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/' , 'Default' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default' , '301' ), ( 'http://ngmexpress.com/contacts/' , 'Default' , '301' ), ( 'http://ngmexpress.com/contacts/' , 'Default' , '301' ), ( 'http://ngmexpress.com/contacts/' , 'Default' , '301' ), ( 'http://ngmexpress.com/' , 'Default' , '301' ), ( 'http://ngmexpress.com/' , 'Default' , '301' ), ( 'http://ngmexpress.com/home-2/' , 'Default' , '301' ), ( 'http://ngmexpress.com/home-3/' , 'Default' , '301' ), ( 'http://ngmexpress.com/home-4/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:34:43 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/coming-soon/' , 'Default' , '301' ), ( 'http://ngmexpress.com/about-us/' , 'Default' , '301' ), ( 'http://ngmexpress.com/management/' , 'Default' , '301' ), ( 'http://ngmexpress.com/team/harold-perish/' , 'Default' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default' , '301' ), ( 'http://ngmexpress.com/single-service/' , 'Default' , '301' ), ( 'http://ngmexpress.com/elements/' , 'Default' , '301' ), ( 'http://ngmexpress.com/typography/' , 'Default' , '301' ), ( 'http://ngmexpress.com/strategy/' , 'Default' , '301' ), ( 'http://ngmexpress.com/faqs/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:36:23 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/blog-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/blog-listing/' , 'Default' , '301' ), ( 'http://ngmexpress.com/blog-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/grid-2-columns/' , 'Default' , '301' ), ( 'http://ngmexpress.com/grid-2-columns-sidebar/' , 'Default' , '301' ), ( 'http://ngmexpress.com/blog-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/grid-4-columns/' , 'Default' , '301' ), ( 'http://ngmexpress.com/blog-masonry/' , 'Default' , '301' ), ( 'http://ngmexpress.com/masonry-2-columns/' , 'Default' , '301' ), ( 'http://ngmexpress.com/masonry-2-columns-sidebar/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:38:02 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/blog-masonry/' , 'Default' , '301' ), ( 'http://ngmexpress.com/masonry-4-columns-full-width/' , 'Default' , '301' ), ( 'http://ngmexpress.com/helping-companies-in-their-green-transition/' , 'Default' , '301' ), ( 'http://ngmexpress.com/drivers-deliver-much-more-than-products/' , 'Default' , '301' ), ( 'http://ngmexpress.com/helping-companies-in-their-green-transition/' , 'Default' , '301' ), ( 'http://ngmexpress.com/the-10-most-used-maintenance-plans/' , 'Default' , '301' ), ( 'http://ngmexpress.com/why-is-this-shortage-happening/' , 'Default' , '301' ), ( 'http://ngmexpress.com/helping-companies-in-their-green-transition-3/' , 'Default' , '301' ), ( 'http://ngmexpress.com/be-smart-about-packaging-product-design/' , 'Default' , '301' ), ( 'http://ngmexpress.com/helping-companies-in-their-green-transition-4/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:39:43 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/helping-companies-in-their-green-transition-4/' , 'Default' , '301' ), ( 'http://ngmexpress.com/tips-for-supply-chains-in-crisis/' , 'Default' , '301' ), ( 'http://ngmexpress.com/6-tips-to-lowering-freight-shipping-costs/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-2-columns/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-grid/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-4-col-wide/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-5-col-wide/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-masonry-1/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:41:23 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/portfolio-masonry-1/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-masonry-2/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-masonry-3/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio-gallery/' , 'Default' , '301' ), ( 'http://ngmexpress.com/portfolio/air-freight-solution/' , 'Default' , '301' ), ( 'http://ngmexpress.com/shop/' , 'Default' , '301' ), ( 'http://ngmexpress.com/shop/' , 'Default' , '301' ), ( 'http://ngmexpress.com/product/small-parcel-1-2kg/' , 'Default' , '301' ), ( 'http://ngmexpress.com/cart/' , 'Default' , '301' ), ( 'http://ngmexpress.com/checkout/' , 'Default' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:43:02 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/contacts/' , 'Default' , '301' ), ( 'http://ngmexpress.com/wp-content/uploads/2021/06/logo1.png' , 'Default' , '301' ), ( 'http://ngmexpress.com/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/home-2/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/home-3/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/home-4/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/coming-soon/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/about-us/' , 'Home 2' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:44:44 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/management/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/team/harold-perish/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/services/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/single-service/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/elements/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/typography/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/strategy/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/faqs/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/blog-grid/' , 'Home 2' , '301' ), ( 'http://ngmexpress.com/blog-listing/' , 'Home 2' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[26-Dec-2022 17:45:44 UTC] WordPress database error Table 'db3on8vg4bbvfu.htv_moblc_link_details_table' doesn't exist for query INSERT INTO htv_moblc_link_details_table (`link`,`page_title`,`status_code`) VALUES ( 'http://ngmexpress.com/services/' , 'HOME4 SERVICE1' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service2' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service3' , '301' ), ( 'http://ngmexpress.com/services/' , 'home4 service4' , '301' ), ( 'http://ngmexpress.com/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/services/' , 'Default Footer' , '301' ), ( 'http://ngmexpress.com/wp-content/uploads/2022/12/B865F796-0EE8-4385-AFBE-6A3F1BA418FB.jpg' , 'Default Footer' , '301' ) ON DUPLICATE KEY UPDATE `status_code`= VALUES(status_code); made by do_action_ref_array('moblc_scan_cron_hook'), WP_Hook->do_action, WP_Hook->apply_filters, MOBLC_Cron->moblc_scan_cron_hook_exec, MOBLC_Cron->check_links_from_pages
+[28-Dec-2022 11:51:29 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[30-Dec-2022 03:36:41 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[30-Dec-2022 03:36:41 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[30-Dec-2022 03:36:41 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[30-Dec-2022 03:36:41 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[30-Dec-2022 03:36:41 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[30-Dec-2022 03:36:42 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[04-Jan-2023 10:44:46 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[11-Jan-2023 18:50:27 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_global_styles_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[16-Jan-2023 13:51:14 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `htv_options` WHERE `option_name` = '_transient_timeout_global_styles_svg_filters_transmax' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/transmax/404.php'), get_header, locate_template, load_template, require_once('/themes/transmax/header.php'), wp_body_open, do_action('wp_body_open'), WP_Hook->do_action, WP_Hook->apply_filters, wp_global_styles_render_svg_filters, wp_get_global_styles_svg_filters, get_transient, delete_option
+[26-Jan-2023 16:44:20 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[14-Feb-2023 03:00:08 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[26-Feb-2023 00:43:51 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[25-Mar-2023 02:31:25 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[01-May-2023 16:39:24 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[22-Jul-2023 11:08:59 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[10-Aug-2023 02:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 06:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 06:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 06:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 06:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 13:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 15:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:03:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 16:33:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 20:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[10-Aug-2023 20:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 00:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 02:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 04:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 05:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 05:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 08:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:39:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:49:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 17:59:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[11-Aug-2023 18:01:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php:221
+Stack trace:
+#0 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): WGL_Extensions_Elementor->save_custom_schemes('')
+#1 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(310): Elementor\Plugin->init('')
+#5 /home/customer/www/ngmexpress.com/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#6 /home/customer/www/ngmexpress.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7  in /home/customer/www/ngmexpress.com/public_html/wp-content/plugins/wgl-extensions/includes/elementor/init.php on line 221
+[07-Sep-2023 14:48:08 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/
+[13-Sep-2023 11:51:20 UTC] wp_auto_login: trying to login user_id==1 loginusername=NGMEXPRESS to admin_url=https://ngmexpress.com/wp-admin/

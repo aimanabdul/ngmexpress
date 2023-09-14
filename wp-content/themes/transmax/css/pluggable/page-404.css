@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* ==================== ##Page 404 ==================== */
+body.error404 #main {
+  padding: 0;
+}
+body.error404 #main > .wgl-container {
+  padding: 135px 0 140px;
+}
+
+.page_404_wrapper {
+  position: relative;
+  max-width: 830px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  text-align: center;
+}
+.page_404_wrapper .error_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0;
+}
+.page_404_wrapper .error_page__banner {
+  white-space: nowrap;
+}
+.page_404_wrapper .error_page__banner .banner__digit {
+  position: relative;
+  font-weight: 800;
+  font-size: 260px;
+  line-height: 0.9;
+  color: var(--transmax-header-font-color);
+}
+.page_404_wrapper .error_page__banner .banner__digit:first-child {
+  margin-right: 10px;
+}
+.page_404_wrapper .error_page__banner .banner__digit:last-child {
+  margin-left: -15px;
+}
+.page_404_wrapper .error_page__title {
+  font-size: 42px;
+  margin-top: 13px;
+  position: relative;
+  z-index: 1;
+}
+.page_404_wrapper .error_page__description {
+  margin: 11px 0 30px;
+  font-size: 16px;
+}
+.page_404_wrapper .search-form .search-field,
+.page_404_wrapper .search-form {
+  width: 100%;
+  max-width: 450px;
+}
+.page_404_wrapper .search-form {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 10px;
+  transition: 0.45s;
+}
+.page_404_wrapper .search-form .search-field {
+  margin-bottom: 0;
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.page_404_wrapper .search-form .search-field::placeholder {
+  font: inherit;
+  line-height: inherit;
+  color: inherit;
+  outline: none;
+  -webkit-appearance: none;
+  transition: 0.4s;
+  transform: translateY(0) scale(1);
+  transform-origin: left bottom;
+}
+.page_404_wrapper .search-form .search-field:active::placeholder, .page_404_wrapper .search-form .search-field:focus::placeholder {
+  opacity: 0;
+}
+.page_404_wrapper .search-form:hover ~ .search__icon {
+  color: var(--transmax-primary-color);
+}
+.page_404_wrapper .wgl-button {
+  padding: 23px 40px;
+  font-weight: 700;
+}
+.page_404_wrapper .search-button {
+  position: absolute;
+  z-index: 1;
+  height: 60px;
+  width: 60px;
+  top: 0;
+  right: 0;
+  margin: 0;
+  border: none;
+  outline: none;
+  padding: 0;
+  font-size: 0;
+  box-shadow: none;
+  cursor: pointer;
+}
+.page_404_wrapper .search-button:focus, .page_404_wrapper .search-button:active {
+  box-shadow: none;
+}
+.page_404_wrapper .search__icon {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  height: 60px;
+  width: 60px;
+  font-size: 20px;
+  line-height: 64px;
+  font-style: normal;
+  text-align: center;
+  transform: translate(0, 0);
+  opacity: 1;
+  transition: 0.4s;
+  pointer-events: none;
+}
+@media (max-width: 768px) {
+  .page_404_wrapper .error_page__banner {
+    transform: scale(0.8);
+  }
+}
+@media (max-width: 600px) {
+  .page_404_wrapper .error_page__banner {
+    transform: scale(0.7);
+  }
+}
+@media (max-width: 480px) {
+  .page_404_wrapper .error_page {
+    margin-top: -70px;
+  }
+  .page_404_wrapper .error_page__title {
+    margin-top: 0;
+    font-size: 34px;
+  }
+  .page_404_wrapper .error_page__description {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/**
+ * Search Page
+ */
+header.searсh-header {
+  margin-bottom: 30px;
+}
+header.searсh-header .page-title {
+  font-size: 36px;
+  line-height: 1.65;
+}
+header.searсh-header .page-title span {
+  font-size: 1.15em;
+  line-height: inherit;
+}
+
+.search-no-results header.searсh-header {
+  margin-bottom: 0;
+}
+.search-no-results .page_404_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0 70px;
+  min-height: 100%;
+}
+.search-no-results .page_404_wrapper .banner_404_text {
+  color: inherit;
+  margin: 25px 20% 26px;
+  font-size: 18px;
+}
+.search-no-results .page_404_wrapper .transmax_404_button.wgl_button .wgl_button_link:hover {
+  color: #fff;
+}
+@media (max-width: 480px) {
+  .search-no-results .page_404_wrapper .banner_404_text {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

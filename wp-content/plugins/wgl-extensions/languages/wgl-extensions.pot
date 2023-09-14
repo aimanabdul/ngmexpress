@@ -1,0 +1,3851 @@
+# Copyright (C) 2023 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../plugins/wgl-extensions/includes/class-wgl-extensions.php:282
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing <strong>%1$d&ndash;%2$d</strong> of %3$d results"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/class-wgl-extensions.php:280
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/class-wgl-extensions.php:278
+msgid "Showing the single result"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/class-wgl-importer.php:58, ../../plugins/wgl-extensions/includes/dashboard/class-wgl-importer.php:59
+msgid "Demo Import"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:187, ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:196, ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:253, ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:249, ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:262, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:187, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:196, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:253, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:249, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:262
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:188, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:188
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:233, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:233
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:254, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:254
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:270, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:270
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:296, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:296
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:325, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:325
+msgid "Assign Authors"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:326, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:326
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:328, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:328
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:338, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:338
+msgid "Import Attachments"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:341, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:341
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:345, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:345
+msgid "Submit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:360, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:360
+msgid "Import author:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:378, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:378
+msgid "as a new user:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:375, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:375
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:390, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:390
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:388, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:388
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:399, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:399
+msgid "- Select -"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:459, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:459
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:519, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:519
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:571, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:571
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:630, ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:869, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:630, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:869
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:722, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:722
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:833, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:833
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:761, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:761
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1025, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1025
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1032, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1109, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1109
+msgid "The given object ID is not that of a menu item."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1115, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1115
+msgid "Invalid menu ID."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1309, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1313
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1327, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1331
+msgid "Invalid file type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1390, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1377
+msgid "Could not create temporary file."
+msgstr ""
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1423, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1409
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1439, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1425
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1451, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1437
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1458, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1444
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1463, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1449
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1469, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1455
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1501, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1487
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1516, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1502
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1636, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1622
+msgid "Import WordPress"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1643, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1629
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1660, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1646
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1661, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1647
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/inc/importer/wordpress-importer.php:1842, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1828
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:192
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:43
+msgid "Demo Importer"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:44
+msgid "To avoid any conflicts an Installation should be done in clear environments."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:45
+msgid "Images are not included in demo import. If you want to use images from demo content, you should check the license for every single image."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:48
+msgid "Import Option"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:51
+msgid "Entire demo data"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:54
+msgid "Partial"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:79, ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:113
+msgid "Which pages do you want to import?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:91, ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:126, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:129
+msgid "Widgets"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:92, ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:127
+msgid "Theme Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:94, ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:129
+msgid "Revolution Sliders"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:98, ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:138
+msgid "Which Custom post types do you want to import?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:150
+msgid "Please Wait..."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:151
+msgid "Import Demo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:165, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:169
+msgid "Read this article to resolve this issue: "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:168, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:172
+msgid "or install demo content without images"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:170, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:174
+msgid "Install demo-content without images"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/dashboard/view/importer.php:187
+msgid "Import is completed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/controls/wgl_icon.php:95
+msgid "Select Icon"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/helper/wpml_translate.php:90, ../../plugins/wgl-extensions/includes/elementor/helper/wpml_translate.php:84, ../../plugins/wgl-extensions/includes/elementor/helper/wpml_translate.php:73
+msgid "WGL Module"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:35
+msgid "Carousel Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:41
+msgid "Use Carousel"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:261
+msgid "Container Padding"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:276
+msgid "Animation Duration"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:288
+msgid "Animation Style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:292
+msgid "Horizontal Default"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:293
+msgid "Horizontal 3D"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:294
+msgid "Vertical 3D"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:303
+msgid "Carousel Height"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:320
+msgid "Triggered by Mouse Wheel"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:342
+msgid "Autoplay"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:351
+msgid "Autoplay Interval"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:367
+msgid "Pause On Hover"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:381
+msgid "Reverse Direction"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:407
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:417
+msgid "Slide per single item"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:427
+msgid "Fade Animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:439
+msgid "Center Mode"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:451
+msgid "Add Pagination Controls"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:461, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1084, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1555, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:47
+msgid "Type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:472
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:489, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:673, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:678
+msgid "Margin Top"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:507, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:781
+msgid "Customize Colors"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:525, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:801
+msgid "Idle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:531, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:549, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:567, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:947, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1564, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1902, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:251
+msgid "Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:543, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:866, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/link_color/class-redux-link-color.php:87
+msgid "Hover"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:561, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:920, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/link_color/class-redux-link-color.php:131
+msgid "Active"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:583
+msgid "Circle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:587
+msgid "Empty Circle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:591
+msgid "Square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:595
+msgid "Empty Square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:599
+msgid "Line"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:603
+msgid "Line - Circle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:658
+msgid "Add Navigation Controls"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:668
+msgid "Buttons Diameter"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:689
+msgid "Positioning"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:696
+msgid "Opposite sides"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:697
+msgid "Nearby"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:707
+msgid "Buttons Distance"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:726
+msgid "Vertical Offset"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:750
+msgid "Horizontal Offset"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:807, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:872, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:926
+msgid "Icon Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:820, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:885, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:938, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:423
+msgid "Background Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:836, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:900, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:952
+msgid "Border Width"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:844, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:901, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:953
+msgid "Border Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:979
+msgid "Customize Responsive"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:988
+msgid "Desktop Settings"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:999, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1039, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1079
+msgid "Screen Breakpoint"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1004, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1044, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1084
+msgid "Equal or greater width screens are targeted."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1014, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1054, ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1094
+msgid "Slides to show"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1027
+msgid "Tablet Settings"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/carousel_settings.php:1067
+msgid "Mobile Settings"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:55
+msgid "%s Icon/Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:63, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1535, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1738, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1982, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:67, ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:90, ../../plugins/wgl-extensions/includes/meta-box-extensions/select_icon_field.php:57
+msgid "Icon"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:71, ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:112, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1858
+msgid "Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:79
+msgid "Media Type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:101
+msgid "Icon Class"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/icons_settings.php:123
+msgid "Image Class"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:66
+msgid "Query"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:74
+msgid "Posts amount"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:85
+msgid "Order by"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:88, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:109
+msgid "Date"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:89, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:110, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:38, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:143, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:199, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:128, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:263
+msgid "Title"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:90, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:252
+msgid "Author"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:91
+msgid "Modified"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:92
+msgid "Random"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:93
+msgid "Comments"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:105
+msgid "Events Order by"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:117
+msgid "Scope:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:121
+msgid "All events"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:122
+msgid "Future events"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:123
+msgid "Past events"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:124
+msgid "Today's events"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:125
+msgid "Tomorrow's events"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:126
+msgid "Events this month"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:127
+msgid "Events next month"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:128
+msgid "Events current and next month"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:129
+msgid "Events within 2 months"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:130
+msgid "Events within 3 months"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:131
+msgid "Events within 6 months"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:132
+msgid "Events within 12 months"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:142
+msgid "Order"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:145
+msgid "Descending"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:146
+msgid "Ascending"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:156
+msgid "Categories"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:158
+msgid "Filter by category slug"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:169
+msgid "Exclude Selected Categories"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:171, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:195, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:244, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:267
+msgid "Leave empty for all"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:180
+msgid "Tags"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:182
+msgid "Filter by tags slug"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:193
+msgid "Exclude Selected Tags"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:203
+msgid "Taxonomies"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:205
+msgid "Filter by custom taxonomies."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:216
+msgid "Exclude Selected Taxonomies"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:230
+msgid "Individual Post/Page/Post Types"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:232
+msgid "Filter by individual posts, pages or custom post type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:242
+msgid "Exclude Selected"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:254
+msgid "Filter by author names"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:265
+msgid "Exclude Selected Authors"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:331, ../../plugins/wgl-extensions/includes/elementor/includes/loop_settings.php:388
+msgid " (Parent categories: ("
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/init.php:386
+msgid "Open Theme Builder"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/library/mega_menu/wgl-mega-menu.php:76, ../../plugins/wgl-extensions/includes/elementor/library/mega_menu/wgl-mega-menu.php:80
+msgid "WGL Mega Menu"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-icons-library.php:32
+msgid "WGL Icons Library"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:70
+msgid "WGL Custom CSS"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:78
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:87
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:163
+msgid "WGL Main Content Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:171, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:411
+msgid "Margin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:183, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:393
+msgid "Padding"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:195, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1154
+msgid "Z-Index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:212, ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:285, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:220
+msgid "WGL Header Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:220
+msgid "Use Custom Mobile Logo?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:228, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:274
+msgid "Custom Logo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:239, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:285
+msgid "Enable Logo Height?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:248, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:294
+msgid "Logo Height"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:266
+msgid "Use Custom Mobile Menu Logo?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:312
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:323
+msgid "Over content"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:324
+msgid "Set Header to display over content."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:337
+msgid "WGL Side Panel Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:345
+msgid "Side Panel Container"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:353, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1125
+msgid "Position"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:358, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:159, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:362, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:135, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:380, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1783, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2030, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:811
+msgid "WGL Blur"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:819
+msgid "Add Backdrop Blur?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:829
+msgid "Backdrop Blur"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:854
+msgid "WGL Background Text"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:862
+msgid "Add Background Text?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:872
+msgid "Background Text"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:876
+msgid "Text"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:896
+msgid "Text Indent"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:914
+msgid "Top Spacing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:933
+msgid "Stroke Width"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:961
+msgid "Stroke Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:978
+msgid "Apply Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:991
+msgid "Gradient Text"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:998
+msgid "Yes"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:999
+msgid "No"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1010
+msgid "Primary Gradient Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1028
+msgid "Secondary Gradient Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1046
+msgid "First Color Location"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1065
+msgid "Second Color Location"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1103
+msgid "Angle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1128
+msgctxt "wgl-extensions"
+msgid "Center Center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1129
+msgctxt "wgl-extensions"
+msgid "Center Left"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1130
+msgctxt "wgl-extensions"
+msgid "Center Right"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1131
+msgctxt "wgl-extensions"
+msgid "Top Center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1132
+msgctxt "wgl-extensions"
+msgid "Top Left"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1133
+msgctxt "wgl-extensions"
+msgid "Top Right"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1134
+msgctxt "wgl-extensions"
+msgid "Bottom Center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1135
+msgctxt "wgl-extensions"
+msgid "Bottom Left"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1136
+msgctxt "wgl-extensions"
+msgid "Bottom Right"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1174
+msgid "WGL Parallax"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1182
+msgid "Add Extended Background Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1192
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1195, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:204
+msgid "Scroll"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1196
+msgid "Mouse"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1197
+msgid "CSS Animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1206
+msgid "Animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1288
+msgid "Animation Iteration Count"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1292
+msgid "Infinite"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1293
+msgid "1"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1305
+msgid "Animation speed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1320
+msgid "Animation Direction"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1324
+msgid "Normal"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1325
+msgid "Reverse"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1326
+msgid "Alternate"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1338
+msgid "Parallax Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1348
+msgid "Parallax Direction"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1352, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:839, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:848
+msgid "Vertical"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1353, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:822, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:831
+msgid "Horizontal"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1362
+msgid "Parallax Factor"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1364
+msgid "Set elements offset and speed. It can be positive (0.3) or negative (-0.3). Less means slower."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1375, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1747, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1992, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2123, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2297
+msgid "Top Offset"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1377
+msgid "Set figure vertical offset from top border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1393, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1765, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2011, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2141, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2315
+msgid "Left Offset"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1395
+msgid "Set figure horizontal offset from left border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1412
+msgid "Rotate Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1429
+msgid "Opacity"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1430
+msgid "Set figure opacity from 0 to 1."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1444, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1868
+msgid "Image Width"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1445
+msgid "Set figure width."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1461
+msgid "Disable Max-Width 100% on Image?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1472
+msgid "Change Color for Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1486
+msgid "Image z-index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1498, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1807, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2056, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2176, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2351, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2480
+msgid "Hide On Mobile?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1505, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1817, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2067, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2187, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2361, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2491
+msgid "Screen Resolution"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1515
+msgid "Layers"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1527
+msgid "WGL Shape Divider"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1536
+msgid "Torn Line"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1577, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1795, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2043, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:544, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:173, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:597
+msgid "Height"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1592
+msgid "Flip"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1604
+msgid "Invert"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1616
+msgid "Z-index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1635
+msgid "WGL Particles"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1643, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1848
+msgid "Add Particles Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1653
+msgid "Style: "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1656
+msgid "One Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1657
+msgid "Random Colors"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1666
+msgid "Color 1"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1676
+msgid "Color 2"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1686
+msgid "Color 3"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1696, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1922
+msgid "Count Of Particles"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1705, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1912
+msgid "Particles Max Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1714, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1932
+msgid "Particles Speed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1724, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1943
+msgid "Add Linked Line?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1732, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1976
+msgid "Hover Animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1735, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1979
+msgid "Grab"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1736, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1980
+msgid "Bubble"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1737, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1981
+msgid "Repulse"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1749, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1994
+msgid "Set particles vertical offset from top border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1767, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2014
+msgid "Set particles horizontal offset from left border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1785, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2033
+msgid "Set particles container width in percent."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1797, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2046
+msgid "Set particles container height in percent."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1809, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2059, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2178, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2353, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2472, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2483, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2627, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2693, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/switch/class-redux-switch.php:37
+msgid "On"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1810, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2060, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2179, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2354, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2473, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2484, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2628, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2694, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1827
+msgid "Particles"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1840
+msgid "WGL Particles Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1870
+msgid "Set particles img width in px."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1880
+msgid "Image Height"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1882
+msgid "Set particles img height in px."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1892
+msgid "Particles Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1952
+msgid "Add Rotate Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:1962
+msgid "Rotate Speed Animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2082
+msgid "WGL Dynamic Highlights"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2090
+msgid "Add Highlights Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2100
+msgid "First Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2113
+msgid "Secondary Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2125
+msgid "Set Dynamic Highlights offset from top border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2143
+msgid "Set Dynamic Highlights horizontal offset from left border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2159, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2333, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:525, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:575
+msgid "Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2161
+msgid "Set Dynamic Highlights container Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2197
+msgid "Highlights z-index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2209
+msgid "Dynamic Highlights"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2225
+msgid "WGL Morph"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2233
+msgid "Add Morph Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2243
+msgid "Morph Style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2246
+msgid "Style 1"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2247
+msgid "Style 2"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2248
+msgid "Style 3"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2257
+msgid "Morph Rotation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2273
+msgid "Morph Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2286
+msgid "Animation Speed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2299
+msgid "Set Morph offset from top border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2317
+msgid "Set Morph horizontal offset from left border."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2335
+msgid "Set Morph Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2371
+msgid "Morph z-index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2383
+msgid "Morph"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2398
+msgid "WGL 3D Wave"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2406
+msgid "Add 3D Wave Animation?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2414
+msgid "Dots Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2426
+msgid "Dots Opacity"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2442
+msgid "Scene Position by X"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2455
+msgid "Scene Position by Y"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2468
+msgid "Mouse Manipulation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2469
+msgid "For best performance, we recommend disabling animation"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2504
+msgid "Wave z-index"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2522
+msgid "WGL Sibling Columns Fade"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2545
+msgid "Sibling Elements Fade"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2566
+msgid "WGL Opacity by Gradient"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2578
+msgid "Gradient Color 1"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2583
+msgid "Gradient Color 2"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2617
+msgid "WGL Sticky Column"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2625, ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2691
+msgid "Enable Sticky?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2645
+msgid "WGL Header Layout"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2653
+msgid "Apply Sticky?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2668
+msgid "WGL Column Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2676
+msgid "Column Overflow"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2679
+msgid "Visible"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2680
+msgid "Hidden"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2706
+msgid "Column Order"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/elementor/modules/wgl-section.php:2719
+msgid "Sibling Widgets Fade"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:152, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:135
+msgid "Toggle row"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:154
+msgid "Disabled row"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:159
+msgid "Edit this row"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:123, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:123
+msgid "WGL Select Item"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:251
+msgid "Edit this column"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:253, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:188
+msgid "Add Item"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:282, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:217, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/footer.tpl.php:58, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:315, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/custom_header_mobile_builder/field_custom_header_mobile_builder.php:250
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "The"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92
+msgid "extension requires"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-helpers.php:733
+msgid "version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92
+msgid "or higher."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92
+msgid "You are currently running"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92
+msgid "This field will not render in your option panel, and featuress of this extension will not be available until the latest version of"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_header_builder/extension_custom_header_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_header_mobile_builder/extension_custom_header_mobile_builder.php:102, ../../plugins/wgl-extensions/includes/extensions/custom_typography/extension_custom_typography.php:92
+msgid "has been installed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:273, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:323
+msgid "Font Family"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:275, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:325
+msgid "Font family"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:316, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:318, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:364, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:366
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:337, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:357, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:650, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:658, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:385, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:405
+msgid "Font style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:338, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:386
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:355, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:658, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:403
+msgid "Style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:370, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:418
+msgid "Font subsets"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:378, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:426
+msgid "Font Subsets"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:381, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:429
+msgid "Subsets"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:383, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:431
+msgid "Font script"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:397, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:398, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:400, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:402, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:445, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:446, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:448, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:450
+msgid "Text Align"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:411, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:447, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:473, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:502, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:459, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:495, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:521, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:550
+msgid "inherit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:412, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:460
+msgid "left"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:413, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:461
+msgid "right"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:414, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:462
+msgid "center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:415, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:463
+msgid "justify"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:416, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:446, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:464, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:494
+msgid "initial"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:428, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:429, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:431, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:433, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:476, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:477, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:479, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:481
+msgid "Text Transform"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:442, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:501, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:490, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:549
+msgid "none"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:443, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:491
+msgid "capitalize"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:444, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:492
+msgid "uppercase"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:445, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:493
+msgid "lowercase"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:459, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:460, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:462, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:464, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:507, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:508, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:510, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:512
+msgid "Font Variant"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:474, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:522
+msgid "normal"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:475, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:523
+msgid "small-caps"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:487, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:488, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:490, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:492, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:535, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:536, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:538, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:540
+msgid "Text Decoration"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:503, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:551
+msgid "underline"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:504, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:552
+msgid "overline"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:505, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:553
+msgid "line-through"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:506, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:554
+msgid "blink"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:519, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:524, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:569, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:574
+msgid "Font Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:538, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:543, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:591, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:596
+msgid "Line Height"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:558, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:563, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:564, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:619, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:624, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:625
+msgid "Word Spacing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:578, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:583, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:584, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:642, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:647, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:648
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:619, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:732
+msgid "Font Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:626, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:739
+msgid "Font color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:651
+msgid "Additional Font Weights to be Loaded"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:728
+msgid "Your Google Fonts are out of date. "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:729
+msgid "Run a"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:729, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:729, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:794, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:794
+msgid "one-time update"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:779, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:905
+msgid "Downloading Google Fonts..."
+msgstr ""
+
+#. translators: Aria title, link title.
+#. translators: Aria title, link title.
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:781, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:907
+msgid "Update Failed|msg. %1$s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:781, ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:781, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:907, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:907
+msgid "Retry?"
+msgstr ""
+
+#. translators: Javascript reload command, link title.
+#. translators: Javascript reload command, link title.
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:783, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:909
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:783, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:909
+msgid "Reload the page"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:1233, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:1338
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/custom_typography/custom_typography/field_custom_typography.php:1316, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:1421
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:146, ../../plugins/wgl-extensions/includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:137
+msgid "Unlock"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:87
+msgid "Redux Framework version 4 is activated but not loaded. Redux Framework version 3 is still installed and activated.  Please deactivate Redux Framework version 3."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:384
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:384
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:479
+msgid "Go Pro"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:553
+msgid "What is this?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/class.redux-plugin.php:554
+msgid "Template Library"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/framework.php:407, ../../plugins/wgl-extensions/includes/framework/redux-core/framework.php:416
+msgid "Cheatin&#8217; eh?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-admin-notices.php:136
+msgid "Dismiss"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-ajax-save.php:42, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-ajax-save.php:52, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-ajax-save.php:114
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-api.php:144
+msgid "Warning, Premature Initialization"
+msgstr ""
+
+#. translators: This is only shown to developers, should not impact users.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-api.php:147
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-api.php:376
+msgid "Redux Framework is not installed. Please install it."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-api.php:773, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-metaboxes-api.php:448
+msgid "Unable to create a section due an empty section array or the section variable passed was not an array."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-api.php:755
+msgid "Unable to create a section due to missing id and title."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:134
+msgid "Regular 400"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr ""
+
+#. translators: 1: Redux, 2: Link to plugin review
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:269
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:270, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:510, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:319, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:113
+msgid "Redux"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:277, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:281, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:994
+msgid "Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:343
+msgid "Redux Framework Notice"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:344
+msgid "There are references to the Redux Framework support site in your config's "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:345, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:362
+msgid "argument.  This is sample data.  Please change or remove this data before shipping your product."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:360
+msgid "Redux Framework Notice:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-args.php:361
+msgid "There are references to the Redux Framework support site in your config's"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:127
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr ""
+
+#. translators: %s: URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:130
+msgid "If you are developing offline, please download and install the %s plugin/extension to bypass our CDN and avoid this warning"
+msgstr ""
+
+#. translators: %s: CDN handle.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:134
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#. translators: %s: Vendor support URL. %s: Admin plugins page.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:182
+msgid "The %1$s (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and %2$s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-cdn.php:182
+msgid "activated."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:136
+msgid "Security check failed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:250
+msgid "Loading..."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:279
+msgid "Register <strong>%1$s</strong> to enable automatic Google Font updates service. Plus unlock all free block templates in the Redux template library."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:284
+msgid "learn more"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:291
+msgid "Register Now"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:292, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:404
+msgid "No thanks"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:336
+msgid "You’re almost done. Register for our service to unlock even more tools to help you build better sites faster in WordPress."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:342
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:379
+msgid "Build better sites faster with Redux"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:404, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:349
+msgid "No Thanks"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:408, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:455
+msgid "Register"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:447
+msgid "Activate essential WordPress security and performance tools by setting up Redux"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:464
+msgid "Security & Backups"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:484
+msgid "Built-in Performance"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-connection-banner.php:554
+msgid "By clicking the <strong>Register</strong> button, you agree to our <a href=\"%1$s\" target=\"_blank\">terms of service</a>, to create an account, and to share details of your usage metrics with Redux.io."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:175
+msgid "Gutenberg is currently disabled!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:221
+msgid "Disable Plugins"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:218
+msgid "Disable Plugin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:198
+msgid "Your theme"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:200, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:194
+msgid "Enable Gutenberg"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:189
+msgid "Looks like something has disabled Gutenberg?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:186
+msgid "Your theme author has disabled Gutenberg!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:183
+msgid "Hmm, it seems something else is disabling Gutenberg..."
+msgstr ""
+
+#. translators: 1. Name
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enable-gutenberg.php:340
+msgid "Redux WordPress Plugin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-enqueue.php:706
+msgid "Please Wait"
+msgstr ""
+
+#. translators: %1$s Extension friendly name. %2$s: minimum Redux version.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-extension-abstract.php:221
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-extension-abstract.php:221
+msgid "You are currently running Redux Framework version "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-extension-abstract.php:221
+msgid "This field will not render in your option panel, and features of this extension will not be available until the latest version of Redux Framework has been installed."
+msgstr ""
+
+#. translators: %s is the name of an extension
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-extensions.php:96
+msgid "The `%s` extension was not located properly"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:40, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:140, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:276
+msgid "Description"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:43, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:977
+msgid "Default"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:46
+msgid "Permissions"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr ""
+
+#. translators: %1$s: Upload URL.  %2$s: Codex URL.
+#. translators: %1$s: Upload URL.  %2$s: Codex URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:142, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:436
+msgid "File Permission Issues"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:142, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:436
+msgid "We were unable to modify required files. Please ensure that %1$s has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as %2$s."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:142, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-filesystem.php:436
+msgid "outlined here"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-health.php:52
+msgid "Security token"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-health.php:87
+msgid "Data transmit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-helpers.php:733
+msgid "is out of date. The core version is"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:171
+msgid "Enable"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:176
+msgid "Disable"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:183
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:185
+msgid "clicking"
+msgstr ""
+
+#. translators: %1$s: Mouse action.  %2$s: Hint status.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:190
+msgid "Hints are tooltips that popup when %1$s the hint icon, offering addition information about the field in which they appear.  They can be %2$s by using the link below."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:195
+msgid "Hints"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:211
+msgid "Hint Tooltip Preferences"
+msgstr ""
+
+#. translators: %1$s is the field ID, %2$s is the field type.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-page-render.php:514
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:104
+msgid "Submit Support Information?"
+msgstr ""
+
+#. translators: %s = WP Site Health Screen URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:106
+msgid "Redux will send the debug information found on the %s and your Redux config to our secure server.  Are you ready to proceed?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:106
+msgid "WordPress Site Health screen"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:229
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:208
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:187
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:166, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1213
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:256, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1217
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:270, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1221, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1527
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:285, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1225
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:405
+msgid "Your panel has bundled copies of Redux Framework template files that are outdated!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-panel.php:405
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-rest-api-builder.php:68, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:101
+msgid "a year"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:99
+msgid "%s years"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:110
+msgid "a week"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:108
+msgid "%s weeks"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:119
+msgid "a day"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:117
+msgid "%s days"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:128
+msgid "an hour"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:126
+msgid "%s hours"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:137
+msgid "a minute"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:135
+msgid "%s minutes"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:146
+msgid "a second"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:144
+msgid "%s seconds"
+msgstr ""
+
+#. translators: 1. Name
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:278
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#. translators: 1. Name
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:282
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#. translators: 1. Name, 2. Time
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:285
+msgid "You have been using %1$s for %2$s now. Would you mind leaving a review to let us know know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:289
+msgid "Leave a Review"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-user-feedback.php:290
+msgid "No thanks / I already have"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/classes/class-redux-wordpress-data.php:358
+msgid "[unassigned]"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:777
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:778
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:779
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:801
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:802
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/class-redux-extension-customizer.php:803
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:109, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:231
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#. translators: %s is the site/panel title in the Customizer
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:138, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:197
+msgid "You are customizing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:193, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:181
+msgid "Back"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-panel.php:204
+msgid "Help"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:98
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:146
+msgid "Customizing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:144
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/customizer/inc/class-redux-customizer-section.php:175
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/class-redux-extension-import-export.php:84
+msgid "Import / Export"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:96
+msgid "Paste your clipboard data here."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:112
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:124
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:131, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:132, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:77
+msgid "Copied!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/import_export/import_export/class-redux-import-export.php:168
+msgid "Your panel has unchanged values, would you like to save them now?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1230, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header-stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1533
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/metaboxes/class-redux-metaboxes-api.php:636
+msgid "Unable to create a box due an empty box array or the box variable passed was not an array."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:32
+msgid "Add or Upload File(s)"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:146, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:231
+msgid "File: "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:232
+msgid "Download"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:230, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:337, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/media/class-redux-media.php:249, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:77, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:60, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:99, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:116, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:251
+msgid "Remove"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:123, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:229
+msgid "Remove Image"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:228
+msgid "Select File(s)"
+msgstr ""
+
+#. translators: %s: Filename.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:236
+msgid "%s already exists in your file queue."
+msgstr ""
+
+#. translators: %s: Upload limit.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:239
+msgid "Maximum upload limit of %s reached/exceeded."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/options_object/class-redux-extension-options-object.php:72, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "field is not supported within the Repeater field."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:167, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:219, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:393, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:215, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:351
+msgid "Delete"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/repeater/repeater/class-redux-repeater.php:242
+msgid "Add"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/search/class-redux-extension-search.php:101
+msgid "Search for field(s)"
+msgstr ""
+
+#. translators: %1$s: Widget page HTML/URL. %s: widget admin URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:129
+msgid "Go to the %1$s page to add the Redux Social Widget to any active widget area."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:180
+msgid "Link URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:234
+msgid "Enabled"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:244
+msgid "Reset"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:264
+msgid "Color Hover"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:277
+msgid "Background"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:290
+msgid "Background Hover"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:33
+msgid "ADN"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:45
+msgid "Android"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:57
+msgid "Apple"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:70
+msgid "behance"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:82
+msgid "behance square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:94
+msgid "Bitbucket"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:106
+msgid "Bitbucket square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:118
+msgid "Bitcoin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:130
+msgid "CodePen"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:142
+msgid "CSS3"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:154
+msgid "Delicious"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:166
+msgid "Deviantart"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:178
+msgid "Digg"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:190
+msgid "Dribbble"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:202
+msgid "Dropbox"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:214
+msgid "Drupal"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:226
+msgid "Empire"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:238, ../../plugins/wgl-extensions/includes/theme-helper-functions.php:12
+msgid "Facebook"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:250
+msgid "Facebook square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:262
+msgid "Flickr"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:274
+msgid "FourSquare"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:286
+msgid "git"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:298
+msgid "git square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:310
+msgid "github"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:322
+msgid "github alt"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:334
+msgid "github square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:346
+msgid "git tip"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:358
+msgid "Google"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:370
+msgid "Google Plus"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:382
+msgid "Google Plus square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:394
+msgid "Hacker News"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:406
+msgid "HTML5"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:418, ../../plugins/wgl-extensions/includes/theme-helper-functions.php:13
+msgid "Instagram"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:430
+msgid "Joomla"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:442
+msgid "JS Fiddle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:454
+msgid "LinkedIn"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:466
+msgid "LinkedIn square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:478
+msgid "Linux"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:490
+msgid "MaxCDN"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:502
+msgid "OpenID"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:514
+msgid "Page Lines"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:526
+msgid "Pied Piper"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:538
+msgid "Pied Piper alt"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:550
+msgid "Pinterest"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:562
+msgid "Pinterest square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:574
+msgid "QQ"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:586
+msgid "Rebel"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:598
+msgid "Reddit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:610
+msgid "Reddit square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:622
+msgid "Ren Ren"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:634
+msgid "Share alt"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:646
+msgid "Share square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:658
+msgid "Skype"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:670
+msgid "Slack"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:682
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:694
+msgid "Spotify"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:706
+msgid "Stack Exchange"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:718
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:730
+msgid "Steam"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:742
+msgid "Steam square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:754
+msgid "Stumble Upon"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:766
+msgid "Stumble Upon circle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:778
+msgid "Tencent Weibo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:790
+msgid "Trello"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:802
+msgid "Tumblr"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:814
+msgid "Tumblr square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:826, ../../plugins/wgl-extensions/includes/theme-helper-functions.php:11
+msgid "Twitter"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:838
+msgid "Twitter square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:850
+msgid "Vimeo square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:862
+msgid "Vine"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:874
+msgid "VK"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:886
+msgid "Weibo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:898
+msgid "Weixin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:910
+msgid "Windows"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:922
+msgid "WordPress"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:934
+msgid "Xing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:946
+msgid "Xing square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:958
+msgid "Yahoo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:970
+msgid "Yelp"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:982
+msgid "YouTube"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:994
+msgid "YouTube play"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:1006
+msgid "YouTube square"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:1018, ../../plugins/wgl-extensions/includes/theme-helper-functions.php:15
+msgid "Telegram"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:1030
+msgid "Whatsapp"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:102
+msgid "Display social media links"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:192
+msgid "Social"
+msgstr ""
+
+#. translators: %1$s: Settings page URL.  %2$s: Closing a tag.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:213
+msgid "Control which icons are displayed and their urls on the %1$sssettings page%2$s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:121, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/color/class-redux-color.php:76, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/color_gradient/class-redux-color-gradient.php:132
+msgid "Transparent"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:131
+msgid "No Repeat"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:132
+msgid "Repeat All"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:133
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:134
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:135, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:150, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:168, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:186, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:205
+msgid "Inherit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:138
+msgid "Background Repeat"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:151, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:169
+msgid "Border Box"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:152, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:170
+msgid "Content Box"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:153, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:171
+msgid "Padding Box"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:156
+msgid "Background Clip"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:174
+msgid "Background Origin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:187
+msgid "Cover"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:188
+msgid "Contain"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:191
+msgid "Background Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:203
+msgid "Fixed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:208
+msgid "Background Attachment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:220
+msgid "Left Top"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:221
+msgid "Left center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:222
+msgid "Left Bottom"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:223
+msgid "Center Top"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:224
+msgid "Center Center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:225
+msgid "Center Bottom"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:226
+msgid "Right Top"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:227
+msgid "Right center"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:228
+msgid "Right Bottom"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:231
+msgid "Background Position"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:285, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/media/class-redux-media.php:89
+msgid "No media selected"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/background/class-redux-background.php:330, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/media/class-redux-media.php:242, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:105, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:249, ../../plugins/wgl-extensions/includes/widgets/class-wgl-extensions-widget-helper.php:495
+msgid "Upload"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:106, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:165
+msgid "All"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:123, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:223, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:679
+msgid "Top"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:147, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:255, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:706
+msgid "Bottom"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:92
+msgid "Shadow"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:111
+msgid "Horizontal Length "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:120
+msgid "Horizontal Length"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:135
+msgid "Vertical Length "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:144
+msgid "Vertical Length"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:159
+msgid "Blur Radius "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:168
+msgid "Blur Radius"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:183
+msgid "Spread "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/box_shadow/class-redux-box-shadow.php:192
+msgid "Spread"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:194, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:198, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/dimensions/class-redux-dimensions.php:200, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:282, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:283, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/link_color/class-redux-link-color.php:109
+msgid "Visited"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/link_color/class-redux-link-color.php:153
+msgid "Focus"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/multi_text/class-redux-multi-text.php:28
+msgid "Add More"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/select/class-redux-select.php:183, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/select_image/class-redux-select-image.php:145
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/select/class-redux-select.php:106, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/select_image/class-redux-select-image.php:26
+msgid "Select an item"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr ""
+
+#. translators: New accordion title.
+#. translators:  Content title for new accordion.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:48, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:233
+msgid "New %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:152, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:288
+msgid "URL"
+msgstr ""
+
+#. translators:  Content title for accordion.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/slides/class-redux-slides.php:363
+msgid "Add %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/text/class-redux-text.php:27
+msgid "The Text field accepts any form of text and optionally validates the text before saving the value."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:700, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:705
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:793
+msgid "Your Google Fonts are out of date. In order to update them you must register for Redux to enable updates."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:794, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:794
+msgid "Automated updates"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:805
+msgid "Shadow Color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:810
+msgid "Shadow color"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:856, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/fields/typography/class-redux-typography.php:865
+msgid "Blur"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:44
+msgid "Gradient Type "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:53
+msgid "linear"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:54
+msgid "radial"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:82
+msgid "From Reach "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:91
+msgid "From Reach"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:105, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:114
+msgid "To Reach"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:135, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/gradient-filters/class-redux-gradient-filters.php:144
+msgid "Gradient Angle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/lib/image-filters/class-redux-image-filters.php:55
+msgid "Filters"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "REQUIRED"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:63, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "RECOMMENDED"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:63
+msgid "The following arguments MUST be used for WP.org submissions, or you will be rejected because of your Redux configuration."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "strongly"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "suggested that you read"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "this document"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "or your theme will be rejected because of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux localization utilities"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Code Styles"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Plugin File"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "CI Testing FIle"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:50
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:63
+msgid "It appears that you have embedded the full Redux package inside your theme. You need only embed the"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/themecheck/checks/class-redux-full-package.php:63
+msgid "folder. Embedding anything else will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr ""
+
+#. translators: %1$s: sanitized value.  %2$s: Old value.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/color/class-redux-validation-color.php:34
+msgid "Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+
+#. translators: %1$s: sanitized value.  %2$s: Old value.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/color/class-redux-validation-color.php:46
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/no_html/class-redux-validation-no-html.php:27
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+msgid "That URL slug is in use, please choose another."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:96
+msgid "If you like"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:96
+msgid "please leave us a"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:96
+msgid "rating. A huge thank you in advance!"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:113
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:117, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:117, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:192
+msgid "Templates"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:186
+msgid "What is Redux?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:267
+msgid "Enable Panel Demo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/class-redux-welcome.php:261
+msgid "Disable Panel Demo"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:17, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:15
+msgid "Welcome to"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:21, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:19
+msgid "Redux is the world's most powerful and widely used WordPress interface builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:25, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:131, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:47, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:875, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:18, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:23
+msgid "Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:39
+msgid "Did I install this?"
+msgstr ""
+
+#. translators: %1$s: URL, %2$s: close tag.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:54
+msgid "Maybe not! If you want to see what Redux is all about, click here to %1$sActivate Demo Mode%2$s."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:43
+msgid "Maybe not! These items are using Redux. If you want to keep using them, Redux will need to remain installed and activated."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:139, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:86
+msgid "By"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:145
+msgid "Plugin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:81
+msgid "Version:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/about.php:93, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:863
+msgid "Theme"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:39
+msgid "Redux - Health Report"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:43
+msgid "Our core mantra at Redux is backward compatibility. With millions instances worldwide, all we care about is keeping can be assured that we will take care of you."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:56
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:61
+msgid "Get System Report"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:67
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:78
+msgid "Copy for Support"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:88
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:95
+msgid "Home URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:98
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:104
+msgid "Site URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:107
+msgid "The root URL of your site."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:115
+msgid "Redux Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:118
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:126
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:129, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:152
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:141
+msgid "To allow data saving, make"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:141
+msgid "writable."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:149
+msgid "WP Content URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:160
+msgid "WP Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:163
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:171
+msgid "WP Multisite"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:174
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:188
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:191
+msgid "The current permalink structure as defined in WordPress Settings->Permalinks."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:200
+msgid "Front Page Display"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:203
+msgid "The current Reading mode of WordPress."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:212
+msgid "Front Page"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:215
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:223
+msgid "Posts Page"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:226
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:237
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:240
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:247
+msgid "We recommend setting memory to at least 40MB. See:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:247
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:256
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:259
+msgid "The prefix structure of the current WordPress database."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:267
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:270
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:284
+msgid "Language"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:287
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:299
+msgid "Browser"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:306
+msgid "Browser Info"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:309
+msgid "Information about the current web browser."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:326
+msgid "Server Environment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:333
+msgid "Server Info"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:336
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:344
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:347
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:363
+msgid "PHP Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:366
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:374
+msgid "ABSPATH"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:377
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:386
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:390, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:399
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:395
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:404
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:406
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:411
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:415
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:420
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:424
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:440
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:443
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:461
+msgid "MySQL Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:463
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:468
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:470
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:476
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:479
+msgid "The default timezone for your server."
+msgstr ""
+
+#. translators: %s default time zone.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:487
+msgid "Default timezone is"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:487
+msgid "it should be UTC"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:502
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:508
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:512
+msgid "Remote Post"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:513
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:518
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:521, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:536
+msgid "Error:"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:528
+msgid "Remote Get"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:529
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:534
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:572
+msgid "Active Plugins"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:585
+msgid "Visit plugin homepage"
+msgstr ""
+
+#. translators: %s Author name and URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:593
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:613
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:623
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:633
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:643
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:662
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:681
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:688
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:695
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:702
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:710
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:729
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:748
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:768
+msgid "These files are calling this opt_name. If you want to alter the config of this opt_name, modify these files."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:800
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:807
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:835
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:868
+msgid "Name"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:870
+msgid "The name of the current active theme."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:877
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:885
+msgid "is available"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:891
+msgid "Author URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:893
+msgid "The theme developers URL."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:898
+msgid "Child Theme"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:900
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#. translators: %s docs link.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:908
+msgid "If you are modifying Redux Framework on a parent theme that you did not build personally we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:917
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:921
+msgid "The name of the parent theme."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:927
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:930
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:936
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/health-report.php:939
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:12
+msgid "Get Support"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:14
+msgid "Sometimes you just need some help. Use this form to submit a support URL and then provide that link to the product developer or our staff."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:29, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:51
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:30
+msgid "Select Support Type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:31, ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:100
+msgid "How to Get Support"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:37
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:41
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#. translators: %s: Redux Health page.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:46
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Health Check</a> tab."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:64
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:68
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:75
+msgid "User"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:77
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:82
+msgid "Developer"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:84
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:105
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:114
+msgid "Listed below are the WordPress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:118
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr ""
+
+#. translators: %s: Support Defined URL.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/support.php:134
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#. translators: %s: HTML.
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:34
+msgid " Template Libraries"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:45
+msgid "Extendify Template Library"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/inc/welcome/views/templates.php:49
+msgid "Load Extendify template library"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/footer.tpl.php:62, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/footer.tpl.php:63, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/footer.tpl.php:67, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:11, ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:36
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/framework/redux-core/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/meta-box-extensions/select_icon_field.php:66
+msgid "Link"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/meta-box-extensions/select_icon_field.php:82
+msgid "Select an icon"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/theme-helper-functions.php:14
+msgid "Linkedin"
+msgstr ""
+
+#: ../../plugins/wgl-extensions/includes/theme-helper-functions.php:23
+msgid "Social media accounts"
+msgstr ""

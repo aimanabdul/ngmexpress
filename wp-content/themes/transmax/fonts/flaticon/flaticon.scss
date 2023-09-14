@@ -1,0 +1,297 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?60b35dbdf37c82d434045e6a00d6f672") format("truetype"),
+url("./flaticon.woff?60b35dbdf37c82d434045e6a00d6f672") format("woff"),
+url("./flaticon.woff2?60b35dbdf37c82d434045e6a00d6f672") format("woff2"),
+url("./flaticon.eot?60b35dbdf37c82d434045e6a00d6f672#iefix") format("embedded-opentype"),
+url("./flaticon.svg?60b35dbdf37c82d434045e6a00d6f672#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "search": "\f101",
+    "search-1": "\f102",
+    "delivery": "\f103",
+    "box": "\f104",
+    "transportation": "\f105",
+    "plane": "\f106",
+    "goods": "\f107",
+    "settings": "\f108",
+    "global": "\f109",
+    "placeholder": "\f10a",
+    "trolley": "\f10b",
+    "call": "\f10c",
+    "levels": "\f10d",
+    "dollar": "\f10e",
+    "clock": "\f10f",
+    "tick": "\f110",
+    "done": "\f111",
+    "play-button": "\f112",
+    "right-arrow": "\f113",
+    "left-arrow-1": "\f114",
+    "arrow-down-sign-to-navigate": "\f115",
+    "next": "\f116",
+    "left-arrow-2": "\f117",
+    "straight-quotes": "\f118",
+    "heart-simple-shape-silhouette": "\f119",
+    "heart": "\f11a",
+    "heart-1": "\f11b",
+    "loupe": "\f11c",
+    "search-interface-symbol": "\f11d",
+    "magnifiying-glass": "\f11e",
+    "shopping-bags": "\f11f",
+    "delivered": "\f120",
+    "package": "\f121",
+    "cart": "\f122",
+    "paper-plane": "\f123",
+    "shipping": "\f124",
+    "sharing": "\f125",
+    "placeholder-1": "\f126",
+    "add": "\f127",
+    "plus": "\f128",
+    "plus-1": "\f129",
+    "plus-2": "\f12a",
+    "add-1": "\f12b",
+    "bar-chart": "\f12c",
+    "balance": "\f12d",
+    "pie-chart": "\f12e",
+    "delivery-1": "\f12f",
+    "light-bulb": "\f130",
+    "location": "\f131",
+    "archive": "\f132",
+    "truck": "\f133",
+    "plus-3": "\f134",
+    "close": "\f135",
+    "close-1": "\f136",
+    "check": "\f137",
+    "remove": "\f138",
+    "info": "\f139",
+    "warning": "\f13a",
+    "star": "\f13b",
+    "home": "\f13c",
+    "clipboard": "\f13d",
+    "filter": "\f13e",
+    "copy": "\f13f",
+    "goal": "\f140",
+    "pencil": "\f141",
+    "check-1": "\f142",
+    "close-2": "\f143",
+    "link": "\f144",
+);
+
+.flaticon-search:before {
+    content: map-get($flaticon-map, "search");
+}
+.flaticon-search-1:before {
+    content: map-get($flaticon-map, "search-1");
+}
+.flaticon-delivery:before {
+    content: map-get($flaticon-map, "delivery");
+}
+.flaticon-box:before {
+    content: map-get($flaticon-map, "box");
+}
+.flaticon-transportation:before {
+    content: map-get($flaticon-map, "transportation");
+}
+.flaticon-plane:before {
+    content: map-get($flaticon-map, "plane");
+}
+.flaticon-goods:before {
+    content: map-get($flaticon-map, "goods");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon-map, "settings");
+}
+.flaticon-global:before {
+    content: map-get($flaticon-map, "global");
+}
+.flaticon-placeholder:before {
+    content: map-get($flaticon-map, "placeholder");
+}
+.flaticon-trolley:before {
+    content: map-get($flaticon-map, "trolley");
+}
+.flaticon-call:before {
+    content: map-get($flaticon-map, "call");
+}
+.flaticon-levels:before {
+    content: map-get($flaticon-map, "levels");
+}
+.flaticon-dollar:before {
+    content: map-get($flaticon-map, "dollar");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon-map, "clock");
+}
+.flaticon-tick:before {
+    content: map-get($flaticon-map, "tick");
+}
+.flaticon-done:before {
+    content: map-get($flaticon-map, "done");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon-map, "play-button");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon-map, "right-arrow");
+}
+.flaticon-left-arrow-1:before {
+    content: map-get($flaticon-map, "left-arrow-1");
+}
+.flaticon-arrow-down-sign-to-navigate:before {
+    content: map-get($flaticon-map, "arrow-down-sign-to-navigate");
+}
+.flaticon-next:before {
+    content: map-get($flaticon-map, "next");
+}
+.flaticon-left-arrow-2:before {
+    content: map-get($flaticon-map, "left-arrow-2");
+}
+.flaticon-straight-quotes:before {
+    content: map-get($flaticon-map, "straight-quotes");
+}
+.flaticon-heart-simple-shape-silhouette:before {
+    content: map-get($flaticon-map, "heart-simple-shape-silhouette");
+}
+.flaticon-heart:before {
+    content: map-get($flaticon-map, "heart");
+}
+.flaticon-heart-1:before {
+    content: map-get($flaticon-map, "heart-1");
+}
+.flaticon-loupe:before {
+    content: map-get($flaticon-map, "loupe");
+}
+.flaticon-search-interface-symbol:before {
+    content: map-get($flaticon-map, "search-interface-symbol");
+}
+.flaticon-magnifiying-glass:before {
+    content: map-get($flaticon-map, "magnifiying-glass");
+}
+.flaticon-shopping-bags:before {
+    content: map-get($flaticon-map, "shopping-bags");
+}
+.flaticon-delivered:before {
+    content: map-get($flaticon-map, "delivered");
+}
+.flaticon-package:before {
+    content: map-get($flaticon-map, "package");
+}
+.flaticon-cart:before {
+    content: map-get($flaticon-map, "cart");
+}
+.flaticon-paper-plane:before {
+    content: map-get($flaticon-map, "paper-plane");
+}
+.flaticon-shipping:before {
+    content: map-get($flaticon-map, "shipping");
+}
+.flaticon-sharing:before {
+    content: map-get($flaticon-map, "sharing");
+}
+.flaticon-placeholder-1:before {
+    content: map-get($flaticon-map, "placeholder-1");
+}
+.flaticon-add:before {
+    content: map-get($flaticon-map, "add");
+}
+.flaticon-plus:before {
+    content: map-get($flaticon-map, "plus");
+}
+.flaticon-plus-1:before {
+    content: map-get($flaticon-map, "plus-1");
+}
+.flaticon-plus-2:before {
+    content: map-get($flaticon-map, "plus-2");
+}
+.flaticon-add-1:before {
+    content: map-get($flaticon-map, "add-1");
+}
+.flaticon-bar-chart:before {
+    content: map-get($flaticon-map, "bar-chart");
+}
+.flaticon-balance:before {
+    content: map-get($flaticon-map, "balance");
+}
+.flaticon-pie-chart:before {
+    content: map-get($flaticon-map, "pie-chart");
+}
+.flaticon-delivery-1:before {
+    content: map-get($flaticon-map, "delivery-1");
+}
+.flaticon-light-bulb:before {
+    content: map-get($flaticon-map, "light-bulb");
+}
+.flaticon-location:before {
+    content: map-get($flaticon-map, "location");
+}
+.flaticon-archive:before {
+    content: map-get($flaticon-map, "archive");
+}
+.flaticon-truck:before {
+    content: map-get($flaticon-map, "truck");
+}
+.flaticon-plus-3:before {
+    content: map-get($flaticon-map, "plus-3");
+}
+.flaticon-close:before {
+    content: map-get($flaticon-map, "close");
+}
+.flaticon-close-1:before {
+    content: map-get($flaticon-map, "close-1");
+}
+.flaticon-check:before {
+    content: map-get($flaticon-map, "check");
+}
+.flaticon-remove:before {
+    content: map-get($flaticon-map, "remove");
+}
+.flaticon-info:before {
+    content: map-get($flaticon-map, "info");
+}
+.flaticon-warning:before {
+    content: map-get($flaticon-map, "warning");
+}
+.flaticon-star:before {
+    content: map-get($flaticon-map, "star");
+}
+.flaticon-home:before {
+    content: map-get($flaticon-map, "home");
+}
+.flaticon-clipboard:before {
+    content: map-get($flaticon-map, "clipboard");
+}
+.flaticon-filter:before {
+    content: map-get($flaticon-map, "filter");
+}
+.flaticon-copy:before {
+    content: map-get($flaticon-map, "copy");
+}
+.flaticon-goal:before {
+    content: map-get($flaticon-map, "goal");
+}
+.flaticon-pencil:before {
+    content: map-get($flaticon-map, "pencil");
+}
+.flaticon-check-1:before {
+    content: map-get($flaticon-map, "check-1");
+}
+.flaticon-close-2:before {
+    content: map-get($flaticon-map, "close-2");
+}
+.flaticon-link:before {
+    content: map-get($flaticon-map, "link");
+}
